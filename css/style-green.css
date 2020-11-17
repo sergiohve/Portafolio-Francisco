@@ -404,7 +404,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -465,7 +465,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #24b67e;
+  color: black;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
@@ -802,6 +802,7 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+  
 }
 
 /*======================================
